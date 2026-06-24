@@ -4,9 +4,11 @@
 This power Bi project Analyzing this data effectively is essential for understanding sales performance, customer preferences, and business growth opportunities.
 
 ## Dashboard Overview:
--Dashboard are divided into three:
-###Over view
-![Over view](dashboard-over-view.png)
+![Dashboard Overview](Over%20view.png)
+![Dashboard Customer](Customer%20.png)
+![Dashboard company](company%20.png)
+
+-Over view
 -Company
 -Customer Segement
 
