@@ -5,8 +5,8 @@ This power Bi project Analyzing this data effectively is essential for understan
 
 ## Dashboard Overview:
 -Dashboard are divided into three:
-###Overview
-![Overview](dashboard-overview.png)
+###Over view
+![Over view](dashboard-over-view.png)
 -Company
 -Customer Segement
 
