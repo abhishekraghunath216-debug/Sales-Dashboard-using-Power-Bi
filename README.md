@@ -5,8 +5,8 @@ This power Bi project Analyzing this data effectively is essential for understan
 
 ## Dashboard Overview:
 ![Dashboard Overview](Over%20view.png)
-![Dashboard Customer](Customer%20Segement.png)
-![Dashboard company](company%20.png)
+![Dashboard Customer](Customer%20Segement)
+![Dashboard company](company%20Analysis)
 
 -Over view
 -Company
